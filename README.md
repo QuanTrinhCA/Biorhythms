@@ -1,4 +1,4 @@
-# [Problem H: Biorhythms](https://www.unb.ca/saintjohn/sase/_assets/documents/problems2019.pdf)
+# [Problem 2: Biorhythms](https://www.unb.ca/saintjohn/sase/_assets/documents/problems2019.pdf)
 
 According to the theory of biorhythms, aspects of people’s life (physical, emotional, intellectual, etc.) are influenced by rhythmic biological cycles: like a sine wave starting at birth, with cycles of various lengths depending on the aspect: 23 days for “physical”, 28 days for “emotional”, and 33 days for “intellectual”. The following graph shows a wave for the “physical” aspect (the vertical bars show the beginning and end of each cycle): 
 
